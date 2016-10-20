@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme LastUpgradeVersion = "9999" version = "1.3">
+  <BuildAction parallelizeBuildables = "YES" buildImplicitDependencies = "YES">
+    <BuildActionEntries>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Core"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Core"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_libc"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "libc"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_CLibreSSL"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "CLibreSSL"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_BCrypt"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "BCrypt"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Cipher"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Cipher"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Essentials"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Essentials"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Hash"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Hash"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_HMAC"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "HMAC"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Random"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Random"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_PathIndexable"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "PathIndexable"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Polymorphic"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Polymorphic"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Node"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Node"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Fluent"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Fluent"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Socks"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Socks"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_SocksCore"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "SocksCore"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_TLS"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "TLS"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_HTTP"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "HTTP"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_SMTP"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "SMTP"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Transport"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Transport"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_URI"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "URI"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_WebSockets"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "WebSockets"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Console"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Console"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Jay"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Jay"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_JSON"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "JSON"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Turnstile"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Turnstile"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_TurnstileCrypto"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "TurnstileCrypto"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_TurnstileWeb"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "TurnstileWeb"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Leaf"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Leaf"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Auth"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Auth"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Cache"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Cache"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Cookies"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Cookies"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_HTTPRouting"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "HTTPRouting"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Routing"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Routing"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Sessions"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Sessions"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Settings"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Settings"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_TypeSafeRouting"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "TypeSafeRouting"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_Vapor"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Vapor"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_hydref_2016_server"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "hydref-2016-server"
+          ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+    </BuildActionEntries>
+  </BuildAction>
+  <TestAction
+    buildConfiguration = "Debug"
+    selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+    selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+    shouldUseLaunchSchemeArgsEnv = "YES"
+    codeCoverageEnabled = "NO">
+    <Testables>
+    <TestableReference
+      skipped = "NO">
+      <BuildableReference
+        BuildableIdentifier = "primary"
+        BlueprintIdentifier = "______Target_hydref_2016_serverTests"
+        BuildableName = "'$(TARGET_NAME)'"
+        BlueprintName = "hydref-2016-serverTests"
+        ReferencedContainer = "container:hydref-2016-server.xcodeproj">
+      </BuildableReference>
+    </TestableReference>
+    </Testables>
+  </TestAction>
+</Scheme>
