@@ -1,5 +1,0 @@
-framework module CLibreSSL {
-    umbrella header "/Users/vtoms/projects/swiftofficehours/meeting-0001/hydref-2016-server/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/CLibreSSL.h"
-    link framework "CLibreSSL"
-    export *
-}
